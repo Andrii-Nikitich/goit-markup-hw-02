@@ -106,10 +106,9 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  background-color: #ffffff;
 }
-.section-three-ul {
-  color: #ffffff;
-}
+
 .section-three-text-name {
   font-weight: 500;
   font-size: 20px;
