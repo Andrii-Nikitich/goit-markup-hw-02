@@ -136,6 +136,7 @@ ul {
 /* section three */
 /* section four */
 .section-four {
+  text-transform: capitalize;
   font-weight: 700;
   font-size: 36px;
   line-height: 111%;
