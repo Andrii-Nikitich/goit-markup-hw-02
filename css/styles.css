@@ -34,9 +34,6 @@ ul {
 .header-logo-text .header-logo-text-pice:focus {
   color: #404bbf;
 }
-.header-logo-text .header-logo-text-pice:active {
-  color: #404bbf;
-}
 .address {
   font-style: normal;
 }
