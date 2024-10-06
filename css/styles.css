@@ -31,7 +31,7 @@ ul {
 .header-logo-text .header-logo-text-pice:hover {
   color: #404bbf;
 }
-.header-logo-text .header-logo-text-pice:focus {
+.header-logo-text .header-logo-text-pice:active {
   color: #404bbf;
 }
 .address {
@@ -41,6 +41,9 @@ ul {
   color: #404bbf;
 }
 .address-logo:active {
+  color: #404bbf;
+}
+.address-logo:focus {
   color: #404bbf;
 }
 .address-logo {
